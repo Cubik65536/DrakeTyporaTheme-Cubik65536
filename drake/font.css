@@ -33,7 +33,7 @@
 
 /*快速自定义配置*/
 :root {
-    --monospace: "Monaspace Krypton", "IBM Plex Math", "IBM Plex Mono", "LXGW WenKai"
+    --monospace: "Monaspace Krypton", "IBM Plex Math", "IBM Plex Mono", "LXGW WenKai";
     --text-font: var(--monospace); /*正文字体*/
     --title-font: var(--monospace); /*标题字体*/
     --latex-font: var(--monospace); /*LaTeX字体(不含英语)*/
